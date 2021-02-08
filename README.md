@@ -21,6 +21,7 @@
 
 
 #### <u>단계별 기능</u>
+![image-20210208233920859](https://user-images.githubusercontent.com/58241963/107239787-8b3d6180-6a6c-11eb-831b-b4755ad91515.png)
 ![image-20210209000436632](https://user-images.githubusercontent.com/58241963/107239757-85e01700-6a6c-11eb-9be8-10007ae76e05.png)
 
 
@@ -43,25 +44,9 @@
 ![image-20210209000744117](https://user-images.githubusercontent.com/58241963/107239778-8a0c3480-6a6c-11eb-9a04-cd34410e7643.png)
 ![image-20210209000750504](https://user-images.githubusercontent.com/58241963/107239779-8a0c3480-6a6c-11eb-8b36-07f2c3328218.png)
 ![image-20210209000816353](https://user-images.githubusercontent.com/58241963/107239782-8aa4cb00-6a6c-11eb-8eef-4b2ba18e1ece.png)
-![image-20210208233920859](https://user-images.githubusercontent.com/58241963/107239787-8b3d6180-6a6c-11eb-831b-b4755ad91515.png)
+
 ![image-20210208234235228](https://user-images.githubusercontent.com/58241963/107239791-8bd5f800-6a6c-11eb-8219-96fa47c790ad.png)
 ![image-20210208234355383](https://user-images.githubusercontent.com/58241963/107239794-8c6e8e80-6a6c-11eb-8198-6f14cbc517e7.png)
 ![image-20210209000338964](https://user-images.githubusercontent.com/58241963/107239797-8d072500-6a6c-11eb-8236-1a8bd32cb98d.png)
 
 
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000338964.png" alt="image-20210209000338964" style="zoom:70%;" />
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000436632.png" alt="image-20210209000436632" style="zoom:70%;" />
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000517659.png" alt="image-20210209000517659" style="zoom:70%;" />
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000619974.png" alt="image-20210209000619974" style="zoom:70%;" />
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000653023.png" alt="image-20210209000653023" style="zoom:70%;" />
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000721161.png" alt="image-20210209000721161" style="zoom:70%;" />
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000750504.png" alt="image-20210209000750504" style="zoom:70%;" />
-
-#### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000816353.png" alt="image-20210209000816353" style="zoom:70%;" />
