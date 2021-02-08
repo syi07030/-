@@ -21,24 +21,34 @@
 
 
 #### <u>단계별 기능</u>
-
-![image-20210208233920859](C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210208233920859.png)
+![image-20210209000436632](https://user-images.githubusercontent.com/58241963/107239757-85e01700-6a6c-11eb-9be8-10007ae76e05.png)
 
 
 
 #### <u>Static Diagram</u>
 
-![image-20210208234235228](C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210208234235228.png)
+![image-20210209000517659](https://user-images.githubusercontent.com/58241963/107239764-87a9da80-6a6c-11eb-8d62-34be0e9a3d21.png)
 
 
 
 #### <u>Dynamic Diagram</u>
 
-![image-20210208234355383](C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210208234355383.png)
+![image-20210209000619974](https://user-images.githubusercontent.com/58241963/107239768-88427100-6a6c-11eb-980a-b17fb6ad3992.png)
 
 
 
 #### <u>API Reference</u>
+![image-20210209000653023](https://user-images.githubusercontent.com/58241963/107239770-88db0780-6a6c-11eb-8a65-386a4f1c2ef8.png)
+![image-20210209000721161](https://user-images.githubusercontent.com/58241963/107239772-89739e00-6a6c-11eb-9fbc-edd05b410315.png)
+![image-20210209000744117](https://user-images.githubusercontent.com/58241963/107239778-8a0c3480-6a6c-11eb-9a04-cd34410e7643.png)
+![image-20210209000750504](https://user-images.githubusercontent.com/58241963/107239779-8a0c3480-6a6c-11eb-8b36-07f2c3328218.png)
+![image-20210209000816353](https://user-images.githubusercontent.com/58241963/107239782-8aa4cb00-6a6c-11eb-8eef-4b2ba18e1ece.png)
+![image-20210208233920859](https://user-images.githubusercontent.com/58241963/107239787-8b3d6180-6a6c-11eb-831b-b4755ad91515.png)
+![image-20210208234235228](https://user-images.githubusercontent.com/58241963/107239791-8bd5f800-6a6c-11eb-8219-96fa47c790ad.png)
+![image-20210208234355383](https://user-images.githubusercontent.com/58241963/107239794-8c6e8e80-6a6c-11eb-8198-6f14cbc517e7.png)
+![image-20210209000338964](https://user-images.githubusercontent.com/58241963/107239797-8d072500-6a6c-11eb-8236-1a8bd32cb98d.png)
+
+
 
 #### <img src="C:\Users\hgy\AppData\Roaming\Typora\typora-user-images\image-20210209000338964.png" alt="image-20210209000338964" style="zoom:70%;" />
 
