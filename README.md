@@ -27,12 +27,15 @@
 
 
 #### <u>Static Diagram</u>
+![image-20210208234235228](https://user-images.githubusercontent.com/58241963/107239791-8bd5f800-6a6c-11eb-8219-96fa47c790ad.png)
+
 
 ![image-20210209000517659](https://user-images.githubusercontent.com/58241963/107239764-87a9da80-6a6c-11eb-8d62-34be0e9a3d21.png)
 
 
 
 #### <u>Dynamic Diagram</u>
+![image-20210208234355383](https://user-images.githubusercontent.com/58241963/107239794-8c6e8e80-6a6c-11eb-8198-6f14cbc517e7.png)
 
 ![image-20210209000619974](https://user-images.githubusercontent.com/58241963/107239768-88427100-6a6c-11eb-980a-b17fb6ad3992.png)
 
@@ -45,8 +48,7 @@
 ![image-20210209000750504](https://user-images.githubusercontent.com/58241963/107239779-8a0c3480-6a6c-11eb-8b36-07f2c3328218.png)
 ![image-20210209000816353](https://user-images.githubusercontent.com/58241963/107239782-8aa4cb00-6a6c-11eb-8eef-4b2ba18e1ece.png)
 
-![image-20210208234235228](https://user-images.githubusercontent.com/58241963/107239791-8bd5f800-6a6c-11eb-8219-96fa47c790ad.png)
-![image-20210208234355383](https://user-images.githubusercontent.com/58241963/107239794-8c6e8e80-6a6c-11eb-8198-6f14cbc517e7.png)
+
 ![image-20210209000338964](https://user-images.githubusercontent.com/58241963/107239797-8d072500-6a6c-11eb-8236-1a8bd32cb98d.png)
 
 
